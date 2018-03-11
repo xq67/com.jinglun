@@ -1,1 +1,12 @@
+/Biz/
+/META-INF/
+/advice/
+/applicationContext.xml
+/controller/
+/dao/
+/database.properties
 /entity/
+/log4j.properties
+/mybatis-config.xml
+/springmvc.xml
+/test/
