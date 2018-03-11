@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 public class DvdInfo implements Serializable{
 	private int id;
-	private int status;
+	private int status;//nihao 
 	private int count;
 	private String name;
 	private String lenttime;
