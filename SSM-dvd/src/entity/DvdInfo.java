@@ -7,7 +7,7 @@ public class DvdInfo implements Serializable{
 	private int status;//sssss
 	private int count;//jjjj
 	private String name;
-	private String lenttime;
+	private String lenttime;//sdfhgj
 	
 	public int getId() {
 		return id;
